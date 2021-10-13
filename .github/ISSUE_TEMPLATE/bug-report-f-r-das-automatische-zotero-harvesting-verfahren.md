@@ -1,6 +1,6 @@
 ---
 name: Bug Report für das automatische Zotero Harvesting Verfahren
-about: 'Titlemuster: ISSN <ISSN> | <Zeitschriftname> (<Plattform/Verlag>) | <Kurze Problembeschreibung>'
+about: 'Titlemuster: ISSN <ISSN> | <Zeitschriftentitel> (<Plattform/Verlag>) | <Kurze Problembeschreibung>'
 
 ---
 
