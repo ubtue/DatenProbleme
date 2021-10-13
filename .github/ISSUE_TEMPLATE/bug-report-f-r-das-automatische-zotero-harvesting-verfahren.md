@@ -1,6 +1,6 @@
 ---
 name: Bug Report für das automatische Zotero Harvesting Verfahren
-about: 'Titlemuster: <Zeder ID> | <Zeitschriftname> | <Kurze Problembeschreibung>'
+about: 'Titlemuster: <Zeder ID> | <Zeitschriftname> (<Plattform/Verlag>) | <Kurze Problembeschreibung>'
 
 ---
 
