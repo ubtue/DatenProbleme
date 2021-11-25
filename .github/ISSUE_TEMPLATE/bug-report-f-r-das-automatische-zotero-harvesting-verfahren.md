@@ -7,6 +7,9 @@ about: 'Titlemuster: ISSN <ISSN> | <Zeitschriftentitel> (<Plattform/Verlag>) | <
 **URL**
 Die Harvest URL
 
+**Import-Translator**
+  ubtue_....js
+  
 **Ausführliche Problembeschreibung**
 Was ist das Problem?
 
