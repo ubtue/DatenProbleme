@@ -1,17 +1,15 @@
 ---
 name: Bug Report für das automatische Zotero Harvesting Verfahren
-about: 'Titlemuster: ISSN <ISSN> | <Zeitschriftentitel> (<Plattform/Verlag>) | <Kurze Problembeschreibung>'
+about: 'Titlemuster: ISSN <ISSN> | <Zeitschriftentitel> (<Plattform/Verlag>) | <Kurzes Schlagwörter zum Problem'
 
 ---
 
 **URL**
-Die Harvest URL
 
+  
 **Import-Translator**
   ubtue_....js
+  (Einzel- und Mehrfach-Import)
   
-**Ausführliche Problembeschreibung**
-Was ist das Problem?
+**Problembeschreibung**
 
-**Offenbare Lösungen**
-Wie kann man das Problem lösen?
