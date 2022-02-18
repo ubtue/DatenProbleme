@@ -4,12 +4,12 @@ about: 'Titlemuster: ISSN <ISSN> | <Zeitschriftentitel> (<Plattform/Verlag>) | <
 
 ---
 
-**URL**
+#### URL
 
   
-**Import-Translator**
-  ubtue_....js
-  (Einzel- und Mehrfach-Import)
+#### Import-Translator
+ubtue_....js
+(Einzel- und Mehrfach-Import)
   
-**Problembeschreibung**
+### Problembeschreibung
 
