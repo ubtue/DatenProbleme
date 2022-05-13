@@ -1,5 +1,5 @@
 ---
-name: Bug Report für das automatische Zotero Harvesting Verfahren
+name: Bug Report für das Zotero Verfahren
 about: 'Titlemuster: ISSN <ISSN> | <Zeitschriftentitel> (<Plattform/Verlag>) | <Schlagwörter zum Problem>'
 
 ---
@@ -8,7 +8,7 @@ about: 'Titlemuster: ISSN <ISSN> | <Zeitschriftentitel> (<Plattform/Verlag>) | <
 
   
 #### Import-Translator
-ubtue_....js
+<Name von genutzten Translator (siehe auch: https://github.com/ubtue/zotkat-translators/tree/master/zotero_master/translators)>
 (Einzel- und Mehrfach-Import)
   
 ### Problembeschreibung
