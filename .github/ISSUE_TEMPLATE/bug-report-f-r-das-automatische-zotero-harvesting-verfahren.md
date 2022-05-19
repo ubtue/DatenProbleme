@@ -9,7 +9,8 @@ about: 'Titlemuster: ISSN <ISSN> | <Zeitschriftentitel> (<Plattform/Verlag>) | <
   
 #### Import-Translator
 <Name von genutzten Translator (siehe auch: https://github.com/ubtue/zotkat-translators oder Zeder p_zot3)>
-(Einzel- und Mehrfach-Import)
+  
+  (Einzel- und Mehrfach-Import)
   
 ### Problembeschreibung
 
