@@ -1,5 +1,5 @@
 ---
-name: Bug Report für das Zotero-Verfahren
+name: Bug-Report für das Zotero-Verfahren
 about: 'Titlemuster: ISSN {ISSN} | {Titel der Zs.} ({Plattform/Verlag}) | {Schlagwörter zum Problem}'
 
 ---
