@@ -1,6 +1,6 @@
 ---
 name: Bug-Report für zotk
-about: 'Titlemuster: ISSN {ISSN} | {Titel der Zs.} ({Plattform/Verlag}) | {Schlagwörter zum Problem}'
+about: 'Titelmuster: ISSN {ISSN} | {Titel der Zs.} ({Plattform/Verlag}) | {Schlagwörter zum Problem}'
 
 ---
 
