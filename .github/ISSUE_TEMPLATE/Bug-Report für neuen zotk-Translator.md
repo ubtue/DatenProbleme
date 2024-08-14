@@ -1,0 +1,39 @@
+---
+name: Bug-Report für neuen zotk-Translator
+about: 'Titlemuster: ISSN {ISSN} | {Titel der Zs.} ({Plattform/Verlag}) | Neuer Translator'
+
+---
+
+#### URL
+
+  
+#### Import-Translator
+Einzel- und Mehrfachimport:
+keiner
+
+  
+### Problembeschreibung
+Könnte für diese Website ein neuer ubtue-Translator entwickelt werden?
+
+Metadaten:
+
+- [ ] Titel
+- [ ] Titelzusatz
+- [ ] Verfasser
+- [ ] Jahr
+- [ ] Seiten
+- [ ] Band
+- [ ] Heft
+- [ ] DOI
+- [ ] Abstract
+- [ ] Keywords
+- [ ] ORCID
+- [ ] Rezensionserkennung
+- [ ] Erkennung einzelner OA-Artikel
+
+
+
+
+
+
+Hinweis LABEL setzen: new translator
