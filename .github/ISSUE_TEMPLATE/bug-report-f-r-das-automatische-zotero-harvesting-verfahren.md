@@ -8,7 +8,7 @@ about: 'Titlemuster: ISSN {ISSN} | {Titel der Zs.} ({Plattform/Verlag}) | {Schla
 
   
 #### Import-Translator
-  Einzel- und Mehrfachimport:
+Einzel- und Mehrfachimport:
 {Name von genutzten Translator}
 (siehe auch: https://github.com/ubtue/zotkat-translators oder ZEDER-Eintrag p_zot3)
 
