@@ -1,6 +1,6 @@
 ---
 name: Bug-Report für neuen zotk-Translator
-about: 'Titlemuster: ISSN {ISSN} | {Titel der Zs.} ({Plattform/Verlag}) | Neuer Translator'
+about: 'Titelmuster: ISSN {ISSN} | {Titel der Zs.} ({Plattform/Verlag}) | Neuer Translator'
 
 ---
 
