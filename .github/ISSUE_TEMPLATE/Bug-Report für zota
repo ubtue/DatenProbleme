@@ -3,6 +3,7 @@ name: Bug-Report für das zota-Verfahren
 about: 'Titlemuster: ISSN {ISSN} | {Titel der Zs.} ({Plattform/Verlag}) | {Schlagwörter zum Problem}'
 
 ---
+
 - [ ] zotk
 - [ ] zota nu
 - [ ] zota ub28
