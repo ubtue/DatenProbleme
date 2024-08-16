@@ -24,6 +24,7 @@ Metadaten:
 - [ ] Seiten
 - [ ] Band
 - [ ] Heft
+- [ ] Sprache
 - [ ] DOI
 - [ ] Abstract
 - [ ] Keywords
