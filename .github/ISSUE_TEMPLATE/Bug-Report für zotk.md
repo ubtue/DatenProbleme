@@ -1,6 +1,10 @@
 ---
 name: Bug-Report für zotk
-about: 'Titelmuster: ISSN {ISSN} | {Titel der Zs.} ({Plattform/Verlag}) | {Schlagwörter zum Problem}'
+about: 'Titelmuster: ISSN {ISSN} | {Titel der Zs.} ({Plattform/Verlag}) | {Schlagwörter
+  zum Problem}'
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
@@ -14,4 +18,3 @@ Einzel- und Mehrfachimport:
 
   
 ### Problembeschreibung
-
