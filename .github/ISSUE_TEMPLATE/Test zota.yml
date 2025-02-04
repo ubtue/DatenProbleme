@@ -1,4 +1,4 @@
-name: Bug-Report für zota
+name: zota
 about: Meldungen zu zota-(test-)-Einspielungen
 title: "ISSN 1234 | Zs.-Titel (Plattform) | Schlagwörter"
 body:
@@ -856,8 +856,6 @@ Hash: IxTheo_2025-02-03#E68183BEC3957E65D8033E4B9F81C024DA55161D
     - wiso.js
     - zbMATH.js
     - zotero.org.js
-  
-  
   - type: textarea
     id: Problembeschreibung
     attributes:
