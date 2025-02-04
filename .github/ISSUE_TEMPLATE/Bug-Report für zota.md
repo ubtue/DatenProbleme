@@ -1,6 +1,7 @@
+---
 name: Bug-Report für zota
 about: 'Titelmuster: ISSN {ISSN} | {Titel der Zs.} ({Plattform/Verlag}) | {Schlagwörter zum Problem}'
-
+---
 
 - [ ] zotk
 - [ ] zota nu
