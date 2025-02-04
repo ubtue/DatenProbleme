@@ -1,0 +1,864 @@
+name: Bug-Report für zota
+about: Meldungen zu zota-(test-)-Einspielungen
+title: "ISSN 1234 | Zs.-Titel (Plattform) | Schlagwörter"
+body:
+  - tpye: markdown
+    attributes:
+      value: |
+        - [ ] zotk
+        - [ ] zota nu
+        - [ ] zota ub28
+ - type: input
+   attributes:
+     label: URL u. ggf. Hash
+   description: Nennung einer oder mehrerer URLs, bei dem das Problem auftrat und bei Einspielungen den Hash.
+   placeholder: Bsp. https://www.zygonjournal.org/article/id/16820/
+Hash: IxTheo_2025-02-03#E68183BEC3957E65D8033E4B9F81C024DA55161D
+- type: dropdown
+- attributes:
+    label: Import-Translator
+    description: Nennung des betroffenen Translators
+    options:
+    - keiner
+    - A Contra Corriente.js
+    - ABC News Australia.js
+    - ACLS Humanities EBook.js
+    - ACLWeb.js
+    - ACM Digital Library.js
+    - ACS Publications.js
+    - ADS Bibcode.js
+    - AEA Web.js
+    - AGRIS.js
+    - AIP.js
+    - AMS Journals.js
+    - AMS MathSciNet.js
+    - APA PsycNET.js
+    - APN.ru.js
+    - APS-Physics.js
+    - APS.js
+    - ARTFL Encyclopedie.js
+    - ARTnews.js
+    - ARTstor.js
+    - ASCE.js
+    - ASCO Meeting Library.js
+    - ASTIS.js
+    - ATS International Journal.js
+    - AUP_Embedded Metadata.js
+    - Ab Imperio.js
+    - Access Medicine.js
+    - Adam Matthew Digital.js
+    - Agencia del ISBN.js
+    - Ahval News.js
+    - Air University Journals.js
+    - Airiti.js
+    - Alexander Street Press.js
+    - AllAfrica.js
+    - Alsharekh.js
+    - AlterNet.js
+    - Aluka.js
+    - Amazon.js
+    - American Archive of Public Broadcasting.js
+    - American Institute of Aeronautics and Astronautics.js
+    - American Prospect.js
+    - Ancestry.com US Federal Census.js
+    - Annual Reviews.js
+    - Antikvarium.hu.js
+    - Archeion.js
+    - Archiv fuer Sozialgeschichte.js
+    - Archive Ouverte en Sciences de l'Information et de la Communication (AOSIC).js
+    - Archives Canada-France.js
+    - Archives Canada.js
+    - Ariana News.js
+    - Art Institute of Chicago.js
+    - Artefacts Canada.js
+    - Artforum.js
+    - Atlanta Journal-Constitution.js
+    - Atypon Journals.js
+    - AustLII and NZLII.js
+    - Australian Dictionary of Biography.js
+    - BAILII.js
+    - BBC Genome.js
+    - BBC.js
+    - BIBSYS.js
+    - BOCC.js
+    - BOE.js
+    - BOFiP-Impots.js
+    - Baidu Scholar.js
+    - Bangkok Post.js
+    - Baruch Foundation.js
+    - Beobachter.js
+    - Bezneng Gajit.js
+    - BibLaTeX.js
+    - BibTeX.js
+    - Biblio.com.js
+    - Bibliontology RDF.js
+    - Biblioteca Nacional de Maestros.js
+    - Bibliotheque et Archives Nationale du Quebec (Pistard).js
+    - Bibliotheque et Archives Nationales du Quebec.js
+    - Bibliotheque nationale de France.js
+    - BioMed Central.js
+    - BioOne.js
+    - Bioconductor.js
+    - Blaetter.js
+    - Blogger.js
+    - Bloomberg.js
+    - Bloomsbury Food Library.js
+    - BnF ISBN.js
+    - Bookmarks.js
+    - Bookshop.org.js
+    - Boston Review.js
+    - Bracero History Archive.js
+    - Brill.js
+    - Bryn Mawr Classical Review.js
+    - Bundesgesetzblatt.js
+    - Business Standard.js
+    - CABI - CAB Abstracts.js
+    - CAOD.js
+    - CCfr (BnF).js
+    - CEUR Workshop Proceedings.js
+    - CIA World Factbook.js
+    - CLACSO.js
+    - CLASE.js
+    - CNKI.js
+    - COinS.js
+    - CQ Press.js
+    - CROSBI.js
+    - CSIRO Publishing.js
+    - CSL JSON.js
+    - CSV.js
+    - Cairn.info.js
+    - CalMatters.js
+    - Calisphere.js
+    - Cambridge Core.js
+    - CanLII.js
+    - Canada.com.js
+    - Canadian Letters and Images.js
+    - Canadiana.ca.js
+    - Cascadilla Proceedings Project.js
+    - Cell Press.js
+    - Central and Eastern European Online Library Journals.js
+    - Chadwyck Literature Online.js
+    - Champlain Society - Collection.js
+    - Christian Science Monitor.js
+    - Chronicling America.js
+    - CiNii.js
+    - Citavi 5 XML.js
+    - CiteSeer.js
+    - CiteULike.js
+    - Citizen Lab.js
+    - Civilization.ca.js
+    - Clinical Key.js
+    - Code4Lib Journal.js
+    - Colorado State Legislature.js
+    - Columbia University Press.js
+    - Common-Place.js
+    - Computer History Museum Archive.js
+    - Copernicus.js
+    - Cornell LII.js
+    - Cornell University Press.js
+    - Crossref Unixref XML.js
+    - Crossref-REST.js
+    - Current Affairs.js
+    - DABI.js
+    - DAI-Zenon.js
+    - DART-Europe.js
+    - DBLP Computer Science Bibliography.js
+    - DBpia.js
+    - DEPATISnet.js
+    - DOAJ.js
+    - DOI Content Negotiation.js
+    - DOI.js
+    - DPLA.js
+    - DTU Orbit.js
+    - Dagens Nyheter.js
+    - Dagstuhl Research Online Publication Server.js
+    - Dar Almandumah.js
+    - Data.gov.js
+    - Datacite JSON.js
+    - Dataverse.js
+    - Daum News.js
+    - De Gruyter.js
+    - Defense Technical Information Center.js
+    - Delpher.js
+    - Demographic Research.js
+    - Denik CZ.js
+    - Der Freitag.js
+    - Der Spiegel.js
+    - Desiring God.js
+    - Deutsche Fotothek.js
+    - Deutsche Nationalbibliothek.js
+    - Dialnet.js
+    - Die Zeit.js
+    - DigiZeitschriften.js
+    - Digital Humanities Quarterly.js
+    - Digital Medievalist.js
+    - Digital Spy.js
+    - Dimensions.js
+    - Douban.js
+    - Dreier Neuerscheinungsdienst.js
+    - DrugBank.ca.js
+    - Dryad Digital Repository.js
+    - EBSCOhost.js
+    - EIDR.js
+    - EPA National Library Catalog.js
+    - ERIC.js
+    - ESpacenet.js
+    - EUR-Lex.js
+    - Early English Books Online.js
+    - Eastview.js
+    - Edinburgh University Press Journals.js
+    - Education Week.js
+    - El Pais.js
+    - Electronic Colloquium on Computational Complexity.js
+    - Elsevier Health Journals.js
+    - Elsevier Pure.js
+    - Embedded Metadata.js
+    - Emerald Insight.js
+    - Encyclopedia of Chicago.js
+    - Endnote XML.js
+    - Engineering Village.js
+    - Epicurious.js
+    - Erudit.js
+    - Euclid.js
+    - EurasiaNet.js
+    - EurogamerUSgamer.js
+    - Europe PMC.js
+    - Evernote.js
+    - F1000 Research.js
+    - FAO Publications.js
+    - FAZ.NET.js
+    - Fachportal Padagogik.js
+    - Factiva.js
+    - Failed Architecture.js
+    - Fairfax Australia.js
+    - Fatcat.js
+    - Figshare.js
+    - Financial Times.js
+    - Finna.js
+    - Flickr.js
+    - Foreign Affairs.js
+    - Foreign Policy.js
+    - FreeCite.js
+    - FreePatentsOnline.js
+    - Frieze.js
+    - Frontiers.js
+    - GMS German Medical Science.js
+    - GPO Access e-CFR.js
+    - Gale Databases.js
+    - GaleGDC.js
+    - Galegroup.js
+    - Gallica.js
+    - Game Studies.js
+    - GameSpot.js
+    - GameStar GamePro.js
+    - Gasyrlar Awazy.js
+    - Gene Ontology.js
+    - GitHub.js
+    - Glenbow Library.js
+    - Globes.js
+    - Gmail.js
+    - Goodreads.js
+    - Google Books.js
+    - Google Patents.js
+    - Google Play.js
+    - Google Presentation.js
+    - Google Research.js
+    - Google Scholar.js
+    - Gulag Many Days, Many Lives.js
+    - HAL Archives Ouvertes.js
+    - HCSP.js
+    - HLAS (historical).js
+    - Haaretz.js
+    - Handelszeitung.js
+    - Hanrei Watch.js
+    - Harper's Magazine.js
+    - Harvard Business Review.js
+    - HathiTrust.js
+    - HeinOnline.js
+    - Heise.js
+    - Herder.js
+    - HighBeam.js
+    - HighWire 2.0.js
+    - HighWire.js
+    - Hindawi Publishers.js
+    - Hispanic-American Periodical Index.js
+    - Homeland Security Digital Library.js
+    - Hoovers.js
+    - Huff Post.js
+    - Human Rights Watch.js
+    - IBISWorld.js
+    - IDEA ALM.js
+    - IEEE Computer Society.js
+    - IEEE Xplore.js
+    - IETF.js
+    - IGN.js
+    - IMDb.js
+    - INSPIRE.js
+    - IPCC.js
+    - ISTC.js
+    - Idref.js
+    - In These Times.js
+    - InfoTrac.js
+    - Informationssystem Medienpaedagogik.js
+    - Informit Australia.js
+    - IngentaConnect.js
+    - Innsbruck_BILDI_PICA_batch.js
+    - Innsbruck_BILDI_PICA_single.js
+    - Innsbruck_GIRARD_PICA_batch.js
+    - Innsbruck_GIRARD_PICA_single.js
+    - Innsbruck_KALDI_PICA_batch.js
+    - Innsbruck_KALDI_PICA_single.js
+    - Inside Higher Ed.js
+    - Insignia OPAC.js
+    - Institute of Contemporary Art.js
+    - Institute of Physics.js
+    - Integrum.js
+    - Intellixir.js
+    - Inter-Research Science Center.js
+    - International Nuclear Information System.js
+    - Internet Archive Scholar.js
+    - Internet Archive Wayback Machine.js
+    - Internet Archive.js
+    - Isidore.js
+    - J-Stage.js
+    - JETS.js
+    - JISC Historical Texts.js
+    - JRC Publications Repository.js
+    - JSTOR.js
+    - Jahrbuch.js
+    - Japan Times Online.js
+    - Journal of Electronic Publishing.js
+    - Journal of Extension.js
+    - Journal of Machine Learning Research.js
+    - Journal of Religion and Society.js
+    - JurPC.js
+    - Juricaf.js
+    - Juris.js
+    - K10plus ISBN.js
+    - KStudy.js
+    - Kanopy.js
+    - Khaama Press.js
+    - KitapYurdu.com.js
+    - Kommersant.js
+    - L'Annee Philologique.js
+    - LA Times.js
+    - LIVIVO.js
+    - La Croix.js
+    - La Nacion (Argentina).js
+    - La Presse.js
+    - Lagen.nu.js
+    - Landesbibliographie Baden-Wurttemberg.js
+    - Le Devoir.js
+    - Le Figaro.js
+    - Le Maitron.js
+    - Le Monde.js
+    - Le monde diplomatique.js
+    - Legifrance.js
+    - Legislative Insight.js
+    - LexisNexis.js
+    - Library Catalog (Aleph).js
+    - Library Catalog (Amicus).js
+    - Library Catalog (Aquabrowser).js
+    - Library Catalog (BiblioCommons).js
+    - Library Catalog (Blacklight).js
+    - Library Catalog (Capita Prism).js
+    - Library Catalog (DRA).js
+    - Library Catalog (Dynix).js
+    - Library Catalog (Encore).js
+    - Library Catalog (GEAC).js
+    - Library Catalog (InnoPAC).js
+    - Library Catalog (Koha).js
+    - Library Catalog (Mango).js
+    - Library Catalog (OPALS).js
+    - Library Catalog (PICA).js
+    - Library Catalog (PICA2).js
+    - Library Catalog (Pika).js
+    - Library Catalog (Polaris).js
+    - Library Catalog (Quolto).js
+    - Library Catalog (SIRSI eLibrary).js
+    - Library Catalog (SIRSI).js
+    - Library Catalog (SLIMS).js
+    - Library Catalog (TIND ILS).js
+    - Library Catalog (TLCYouSeeMore).js
+    - Library Catalog (VTLS).js
+    - Library Catalog (Visual Library 2021).js
+    - Library Catalog (Voyager 7).js
+    - Library Catalog (Voyager).js
+    - Library Genesis.js
+    - Library Hub Discover.js
+    - Library of Congress ISBN.js
+    - LingBuzz.js
+    - Lippincott Williams and Wilkins.js
+    - LiveJournal.js
+    - London Review of Books.js
+    - LookUs.js
+    - Lulu.js
+    - MAB2.js
+    - MARC.js
+    - MARCXML.js
+    - MCV.js
+    - MDPI Journals.js
+    - MEDLINEnbib.js
+    - METS.js
+    - MIDAS Journals.js
+    - MIT Press Books.js
+    - MIT Press Journals.js
+    - MODS.js
+    - MPG PuRe.js
+    - Mailman.js
+    - Mainichi Daily News.js
+    - Matbugat.ru.js
+    - Max Planck Institute for the History of Science Virtual Laboratory Library.js
+    - Medium.js
+    - MetaLib.js
+    - Microbiology Society Journals.js
+    - Microsoft Academic.js
+    - Milli Kutuphane.js
+    - Musee du Louvre.js
+    - NASA ADS.js
+    - NASA NTRS.js
+    - NCBI Nucleotide.js
+    - NPR.js
+    - NRC Research Press.js
+    - NTSB Accident Reports.js
+    - NYPL Menus.js
+    - NYPL Research Catalog.js
+    - NYTimes.com.js
+    - NZZ.ch.js
+    - Nagoya University OPAC.js
+    - National Academies Press.js
+    - National Agriculture Library.js
+    - National Archives of Australia.js
+    - National Archives of South Africa.js
+    - National Archives of the United States.js
+    - National Bureau of Economic Research.js
+    - National Diet Library Catalogue.js
+    - National Gallery of Art - USA.js
+    - National Gallery of Australia.js
+    - National Library of Australia (new catalog).js
+    - National Library of Australia.js
+    - National Library of Belarus.js
+    - National Library of Norway.js
+    - National Post.js
+    - National Technical Reports Library.js
+    - National Transportation Library ROSA P.js
+    - Nature Publishing Group.js
+    - Neural Information Processing Systems.js
+    - New Left Review.js
+    - New Zealand Herald.js
+    - Newlines Magazine.js
+    - News Corp Australia.js
+    - NewsBank.js
+    - NewsnetTamedia.js
+    - Noor Digital Library.js
+    - Note HTML.js
+    - Note Markdown.js
+    - Notre Dame Philosophical Reviews.js
+    - Nuclear Receptor Signaling.js
+    - OAPEN.js
+    - OCLC WorldCat FirstSearch.js
+    - OECD.js
+    - ORCID.js
+    - OSF Preprints.js
+    - OSTI Energy Citations.js
+    - OVID Tagged.js
+    - OZON.ru.js
+    - OhioLINK.js
+    - Old Bailey Online.js
+    - Open Conf.js
+    - Open Knowledge Repository.js
+    - Open WorldCat.js
+    - OpenEdition Books.js
+    - OpenEdition Journals.js
+    - OpenJudis - Indian Supreme Court cases.js
+    - Optical Society of America.js
+    - Ovid.js
+    - Oxford Dictionaries Premium.js
+    - Oxford English Dictionary.js
+    - Oxford Music and Art Online.js
+    - Oxford Reference.js
+    - Oxford University Press.js
+    - PC Gamer.js
+    - PC Games.js
+    - PEI Archival Information Network.js
+    - PEP Web.js
+    - PKP Catalog Systems.js
+    - PLoS Journals.js
+    - PRC History Review.js
+    - Pajhwok Afghan News.js
+    - Papers Past.js
+    - Paris Review.js
+    - Pastebin.js
+    - Patents - USPTO.js
+    - Peeters.js
+    - Perceiving Systems.js
+    - PhilPapers.js
+    - Philosopher's Imprint.js
+    - PicaSWB_batch.js
+    - PicaSWBixzs.js
+    - Pleade.js
+    - Polygon.js
+    - Potsdamer Neueste Nachrichten.js
+    - Primo 2018.js
+    - Primo Normalized XML.js
+    - Primo.js
+    - ProMED.js
+    - ProQuest Ebook Central.js
+    - ProQuest PolicyFile.js
+    - ProQuest.js
+    - Probing the Past.js
+    - Project Gutenberg.js
+    - Project MUSE.js
+    - Protein Data Bank.js
+    - PubMed Central.js
+    - PubMed XML.js
+    - PubMed.js
+    - PubPub.js
+    - Publications Office of the European Union.js
+    - Publications du Quebec.js
+    - PyPI.js
+    - Qatar Digital Library.js
+    - R-Packages.js
+    - RAND.js
+    - RDF.js
+    - REDALYC.js
+    - RIS.js
+    - RSC Publishing.js
+    - Radio Free Europe Radio Liberty.js
+    - RePEc - Econpapers.js
+    - RePEc - IDEAS.js
+    - Rechtspraak.nl.js
+    - RefWorks Tagged.js
+    - ReferBibIX.js
+    - Regeringskansliet.js
+    - Research Square.js
+    - ResearchGate.js
+    - Retrokat_PicaSWB_batch.js
+    - Retrokat_PicaSWBixzs.js
+    - Retsinformation.js
+    - Reuters.js
+    - Rock, Paper, Shotgun.js
+    - Roll Call.js
+    - Russian State Library.js
+    - SAE Papers.js
+    - SAGE Journals.js
+    - SAGE Knowledge.js
+    - SAILDART.js
+    - SALT Research Archives.js
+    - SFU IPinCH.js
+    - SIPRI.js
+    - SIRS Knowledge Source.js
+    - SLUB Dresden.js
+    - SORA.js
+    - SSOAR.js
+    - SSRN.js
+    - SVT Nyheter.js
+    - Sacramento Bee.js
+    - Safari Books Online.js
+    - Scholars Portal Journals.js
+    - Scholia.js
+    - Schweizer Radio und Fernsehen SRF.js
+    - SciELO.js
+    - ScienceDirect.js
+    - Scopus.js
+    - Selektiv_PicaSWB_batch.js
+    - Selektiv_PicaSWB_ixzs.js
+    - Semantic Scholar.js
+    - Silverchair.js
+    - Slate.js
+    - SlideShare.js
+    - Springer Books.js
+    - Springer Link.js
+    - Stack Exchange.js
+    - Stanford Encyclopedia of Philosophy.js
+    - Stanford University Press.js
+    - State Records Office of Western Australia.js
+    - Stitcher.js
+    - Store norske leksikon.js
+    - Stuff.co.nz.js
+    - Substack.js
+    - Sud Ouest.js
+    - Sueddeutsche.de.js
+    - Summon 2.js
+    - Superlib.js
+    - Svenska Dagbladet.js
+    - Sveriges radio.js
+    - TEI.js
+    - TV by the Numbers.js
+    - TVNZ.js
+    - Tagesspiegel.js
+    - Talis Aspire.js
+    - TalisPrism.js
+    - Tatknigafund.js
+    - Tatpressa.ru.js
+    - Taylor & Francis eBooks.js
+    - Taylor and Francis+NEJM.js
+    - Tesis Doctorals en Xarxa.js
+    - The Art Newspaper.js
+    - The Atlantic.js
+    - The Boston Globe.js
+    - The Chronicle of Higher Education.js
+    - The Daily Beast.js
+    - The Economic Times - The Times of India.js
+    - The Economist.js
+    - The Free Dictionary.js
+    - The Globe and Mail.js
+    - The Guardian.js
+    - The Hamilton Spectator.js
+    - The Hindu (old).js
+    - The Hindu.js
+    - The Intercept.js
+    - The Met.js
+    - The Microfinance Gateway.js
+    - The Nation.js
+    - The National Archives (UK).js
+    - The New Republic.js
+    - The New York Review of Books.js
+    - The New Yorker.js
+    - The Open Library.js
+    - The Straits Times.js
+    - The Telegraph.js
+    - The Times and Sunday Times.js
+    - TheMarker.js
+    - Theory of Computing.js
+    - ThesesFR.js
+    - Thieme.js
+    - Time.com.js
+    - TimesMachine.js
+    - Tony Blair Institute for Global Change.js
+    - Toronto Star.js
+    - Transportation Research Board.js
+    - Treesearch.js
+    - Trove.js
+    - Tumblr.js
+    - Twitter.js
+    - TyndaleBulletin.js
+    - UNZ Print Archive.js
+    - UPCommons.js
+    - US National Archives Research Catalog.js
+    - Ubiquity Journals.js
+    - University Press Scholarship.js
+    - University of California Press Books.js
+    - University of Chicago Press Books.js
+    - University of Wisconsin-Madison Libraries Catalog.js
+    - Unqualified Dublin Core RDF.js
+    - UpToDate References.js
+    - Vanity Fair.js
+    - Verniana-Jules Verne Studies.js
+    - Verso Books.js
+    - Vice.js
+    - Vimeo.js
+    - VoxEU.js
+    - WHO.js
+    - WIPO.js
+    - Wall Street Journal.js
+    - Wanfang Data.js
+    - Washington Monthly.js
+    - Washington Post.js
+    - Web of Science Nextgen.js
+    - Web of Science Tagged.js
+    - Web of Science.js
+    - Welt Online.js
+    - WestLaw UK.js
+    - WikiLeaks PlusD.js
+    - Wikidata QuickStatements.js
+    - Wikidata.js
+    - Wikimedia Commons.js
+    - Wikipedia Citation Templates.js
+    - Wikipedia.js
+    - Wikisource.js
+    - Wikiwand.js
+    - Wiktionary.js
+    - Wildlife Biology in Practice.js
+    - Wiley Online Library.js
+    - Winnipeg Free Press.js
+    - Wired.js
+    - Womennews.js
+    - World Digital Library.js
+    - World History Connected.js
+    - World Shakespeare Bibliography Online.js
+    - WorldCat Discovery Service.js
+    - XML ContextObject.js
+    - YPSF.js
+    - Ynet.js
+    - YouTube.js
+    - ZIPonline.js
+    - Zenodo.js
+    - Zotero RDF.js
+    - ZoteroBib.js
+    - arXiv Vanity.js
+    - arXiv.org.js
+    - artnet.js
+    - beck-online.js
+    - clinicaltrials.gov.js
+    - dLibra.js
+    - dejure.org.js
+    - dhistory.js
+    - digibib.net.js
+    - eLibrary.ru.js
+    - eLife.js
+    - eMJA.js
+    - eMedicine.js
+    - ePeriodica.js
+    - ePrint IACR.js
+    - ebrary.js
+    - etatar.ru.js
+    - feb-web.ru.js
+    - fishpond.co.nz.js
+    - fr-online.de.js
+    - govinfo.js
+    - ikr.js
+    - ikr_batch_artikel.js
+    - informIT database.js
+    - io-port.js
+    - jmlr.js
+    - jurion.js
+    - mEDRA.js
+    - magazines.russ.ru.js
+    - medes.js
+    - newshub.co.nz.js
+    - newspapers.com.js
+    - openJur.js
+    - reddit.js
+    - sbn.it.js
+    - scinapse.js
+    - semantics Visual Library.js
+    - taz.de.js
+    - ubtue_APCJ.js
+    - ubtue_AUP.js
+    - ubtue_AUSS.js
+    - ubtue_Acta Theologica.js
+    - ubtue_Allied_Academies.js
+    - ubtue_Asbury Journal.js
+    - ubtue_Atypon_Journals.js
+    - ubtue_BerghahnJournals.js
+    - ubtue_Biblical Archaeology Review.js
+    - ubtue_Brepols.js
+    - ubtue_Brill.js
+    - ubtue_CCJLS.js
+    - ubtue_CJBS.js
+    - ubtue_CRI.js
+    - ubtue_Cairn.info.js
+    - ubtue_Cambridge Core.js
+    - ubtue_Central and Eastern European Online Library Journals.js
+    - ubtue_Collectanea Christiana Orientalia.js
+    - ubtue_Correspondences.js
+    - ubtue_Crime_and_Justice.js
+    - ubtue_Cyber_Criminology.js
+    - ubtue_DOAJ.js
+    - ubtue_Davarlogos.js
+    - ubtue_David_Publishing.js
+    - ubtue_DeGruyter.js
+    - ubtue_Dialnet.js
+    - ubtue_EBSCOhost.js
+    - ubtue_Edinburgh University Press Journals.js
+    - ubtue_Equinox.js
+    - ubtue_Erudit.js
+    - ubtue_Ethik und Gesellschaft.js
+    - ubtue_Harrassowitz_Deutsches_Archiv_fuer_Erforschung_des_Mittelalters.js
+    - ubtue_Herder.js
+    - ubtue_IJCJS.js
+    - ubtue_Idunn.js
+    - ubtue_Im Dialog.js
+    - ubtue_Informit.js
+    - ubtue_IngentaConnect.js
+    - ubtue_JEAC.js
+    - ubtue_JJS.js
+    - ubtue_JSTOR.js
+    - ubtue_Journal for Interdisciplinary Biblical Studies.js
+    - ubtue_Journal of European Baptist Studies.js
+    - ubtue_Journal of Religion and Society.js
+    - ubtue_Journal of Religion and Society_v2.js
+    - ubtue_Journal_Religion_Film.js
+    - ubtue_Liverpool University Press Online.js
+    - ubtue_MDPI Journals.js
+    - ubtue_Mikado.js
+    - ubtue_Mohr Siebeck.js
+    - ubtue_Musik und Gottesdienst.js
+    - ubtue_Narr.js
+    - ubtue_OPUS_uniFrankfurt.js
+    - ubtue_Oesterreichisches_Archiv_fuer_Recht_und_Religion.js
+    - ubtue_Open Journal Systems Standard.js
+    - ubtue_OpenDigi_Tuebingen.js
+    - ubtue_OpenEdition Journals.js
+    - ubtue_Oxford Academic.js
+    - ubtue_PKP Catalog Systems.js
+    - ubtue_Peeters.js
+    - ubtue_Philosophy Documentation Center.js
+    - ubtue_Project MUSE.js
+    - ubtue_PubPub.js
+    - ubtue_Quaderni di storia religiosa medievale.js
+    - ubtue_Quaker_Studies.js
+    - ubtue_RHPR.js
+    - ubtue_Revista_Criminalidad.js
+    - ubtue_Revue de Theologie et de Philosophie.js
+    - ubtue_Revue des Questions Scientifiques.js
+    - ubtue_SAGE Journals.js
+    - ubtue_SBJT.js
+    - ubtue_Sabinet.js
+    - ubtue_SciELO.js
+    - ubtue_ScienceDirect.js
+    - ubtue_Sciendo.js
+    - ubtue_Silverchair.js
+    - ubtue_Springer Link.js
+    - ubtue_Springer_Publishing.js
+    - ubtue_Studi e Materiali di Storia delle Religioni.js
+    - ubtue_Studia_Religiologica.js
+    - ubtue_Taylor and Francis+NEJM.js
+    - ubtue_TheoWeb.js
+    - ubtue_Theologische Revue.js
+    - ubtue_Tidsskrift.js
+    - ubtue_Ubiquity Journals.js
+    - ubtue_Uni_Graz.js
+    - ubtue_Universidad de Navarra.js
+    - ubtue_University of Chicago Press Journal.js
+    - ubtue_University of Toronto Press.js
+    - ubtue_Universität Tübingen TOBIAS Portal.js
+    - ubtue_Vulgata in Dialogue.js
+    - ubtue_Wiley Online Library.js
+    - ubtue_Zurich Open Repository and Archive.js
+    - ubtue_Zygon.js
+    - ubtue_baylor.js
+    - ubtue_cesnur.info.js
+    - ubtue_cesnur_2021.info.js
+    - ubtue_christianscholars.js
+    - ubtue_dergipark.js
+    - ubtue_eastrs.js
+    - ubtue_erhizome.js
+    - ubtue_etf.js
+    - ubtue_foi_et_vie.js
+    - ubtue_georgefox_tudublin.js
+    - ubtue_harrassowitz.js
+    - ubtue_horizonte.js
+    - ubtue_jisasr.js
+    - ubtue_libraWeb.js
+    - ubtue_mitteilungen zur christlichen archaologie.js
+    - ubtue_mucchieditore.js
+    - ubtue_nirc.js
+    - ubtue_pica3.js
+    - ubtue_pica3_extern.js
+    - ubtue_quaderni_di_diritto.js
+    - ubtue_qucosa.js
+    - ubtue_scholarlypublishing.js
+    - ubtue_shermjournal.js
+    - ubtue_siak.js
+    - ubtue_stone-campbelljournal.js
+    - ubtue_thlz.js
+    - ubtue_torrossa.js
+    - ubtue_trends_and_issues_criminology.js
+    - ubtue_umes.js
+    - ubtue_vandenhoeck_ruprecht.js
+    - ubtue_vitaepensiero.js
+    - ubtue_voxscripturae.js
+    - ubtue_word&world.js
+    - uclouvain.js
+    - unAPI.js
+    - wiso.js
+    - zbMATH.js
+    - zotero.org.js
+  
+  
+  - type: textarea
+    id: Problembeschreibung
+    attributes:
+      label: Was ist das Problem?
