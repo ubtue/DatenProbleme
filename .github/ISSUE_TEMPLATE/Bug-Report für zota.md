@@ -9,10 +9,10 @@ about: 'Titelmuster: ISSN {ISSN} | {Titel der Zs.} ({Plattform/Verlag}) | {Schla
 
 #### URL
 
-Hash: {nur bei betroffenen Einspielungen möglich}
+Hash {nur bei betroffenen Einspielungen möglich}
   
 #### Import-Translator
-Einzel- und Mehrfachimport:
+Einzel- und Mehrfachimport
 {Name von genutzten Translator}
 (siehe auch: https://github.com/ubtue/zotkat-translators oder ZEDER-Eintrag p_zot3)
 
