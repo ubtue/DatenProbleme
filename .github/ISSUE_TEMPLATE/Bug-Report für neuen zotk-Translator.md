@@ -7,15 +7,15 @@ assignees: ''
 
 ---
 
-#### URL
+### URL
 
   
-#### Import-Translator
+### Import-Translator
 Einzel- und Mehrfachimport:
 keiner
 
   
-### Problembeschreibung
+## Problembeschreibung
 Könnte für diese Website ein neuer ubtue-Translator entwickelt werden?
 
 Metadaten:
