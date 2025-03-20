@@ -12,18 +12,18 @@ assignees: ''
 - [ ] zota nu
 - [ ] zota ub28
 
-#### URL
+### URL
 
 Hash {nur bei betroffenen Einspielungen möglich}
   
-#### Import-Translator
+### Import-Translator
 Einzel- und Mehrfachimport
 {Name von genutzten Translator}
 (siehe auch: https://github.com/ubtue/zotkat-translators oder ZEDER-Eintrag p_zot3)
 
   
-### Problembeschreibung
+## Problembeschreibung
 
-## zotk
+### zotk
 
-## zota
+### zota
