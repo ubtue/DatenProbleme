@@ -2,8 +2,8 @@
 name: Bug-Report für zotk
 about: 'Titelmuster: ISSN {ISSN} | {Titel der Zs.} ({Plattform/Verlag}) | {Schlagwörter
   zum Problem}'
-title: ''
-labels: ''
+title: 'ISSN | Zs. (Plattform/Verlag) | Problem'
+labels: 'Zotero_SEMI-AUTO'
 assignees: ''
 
 ---
