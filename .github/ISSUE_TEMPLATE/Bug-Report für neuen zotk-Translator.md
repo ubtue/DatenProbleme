@@ -1,8 +1,8 @@
 ---
 name: Bug-Report für neuen zotk-Translator
-about: 'Titelmuster: ISSN {ISSN} | {Titel der Zs.} ({Plattform/Verlag}) | Neuer Translator'
-title: ''
-labels: ''
+about: 'Anfrage neuer Translator für das halbautomatische Zotero-Verfahren'
+title: 'ISSN | Zs. (Plattform/Verlag) | Neuer Translator'
+labels: 'Zotero_SEMI-AUTO,New Translator'
 assignees: ''
 
 ---
@@ -34,10 +34,3 @@ Metadaten:
 - [ ] ORCID
 - [ ] Rezensionserkennung
 - [ ] Erkennung einzelner OA-Artikel
-
-
-
-
-
-
-Hinweis LABEL setzen: new translator
