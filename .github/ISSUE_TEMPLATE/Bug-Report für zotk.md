@@ -1,7 +1,6 @@
 ---
 name: Bug-Report für zotk
-about: 'Titelmuster: ISSN {ISSN} | {Titel der Zs.} ({Plattform/Verlag}) | {Schlagwörter
-  zum Problem}'
+about: 'Problemmeldung beim halbautomatischen Zotero-Verfahren}'
 title: 'ISSN | Zs. (Plattform/Verlag) | Problem'
 labels: 'Zotero_SEMI-AUTO'
 assignees: ''
