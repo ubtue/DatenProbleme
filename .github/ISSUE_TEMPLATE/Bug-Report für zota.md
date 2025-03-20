@@ -1,9 +1,7 @@
 ---
 name: Bug-Report für zota
-about: 'Titelmuster: ISSN {ISSN} | {Titel der Zs.} ({Plattform/Verlag}) | {Schlagwörter
-  zum Problem}'
-title: 'Titelmuster: ISSN {ISSN} | {Titel der Zs.} ({Plattform/Verlag}) | {Schlagwörter
-  zum Problem}'
+about: 'Problemmeldung beim vollautomatischen Zotero-Verfahren'
+title: 'ISSN | Zs. (Plattform/Verlag) | Problem'
 labels: ''
 assignees: ''
 
