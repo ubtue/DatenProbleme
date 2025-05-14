@@ -20,6 +20,7 @@ Könnte für diese Website ein neuer ubtue-Translator entwickelt werden?
 
 Metadaten:
 
+- [ ] ISSN
 - [ ] Titel
 - [ ] Titelzusatz
 - [ ] Verfasser
